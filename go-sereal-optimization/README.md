@@ -12,6 +12,8 @@ directory over http.  If you don't have one, you can install the one I used:
 
 Then browse to http://localhost:8080/slides.html
 
+Also, you can simply open [slides.md](https://github.com/ikruglov/talks/blob/master/go-sereal-optimization/slides.md) (limited view).
+
 ACKNOWLEDGMENT
 
 The framework for this slides was kindly borrowed from Damian Gryski.
